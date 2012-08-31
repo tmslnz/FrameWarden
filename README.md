@@ -1,6 +1,4 @@
-FrameWarden
-===========
-
+# FrameWarden
 A network rendering frame dispatcher created by Nathan Warden for use with [Luxology's Modo][lux] 3D rendering and animation software.
 
 This software was on sale for a relatively short time until it went dark for a little while. Nathan (the original author and owner of this app) recently decided to give out the source (RealBasic) but he is not able to continue supporting the project. So here it is…
@@ -27,9 +25,8 @@ From the [original announcement][luxforum] (August 31st, 2012):
 > Nathan
 
 ## Source
-
-Most of the original source is a [RealBasic][rbp] project file and the original `.zip` package released by Nathan is on [Google Docs][gdrive] as well as in this repo under the `original_package` branch.  
-The tutorial videos in the original archive have been re-compressed with [MPEG Streamclip][mpeg] as MP4 200kbps h.264 to avoid filling up the repo with 200+mb of video materials.
+Most of the original source is a [RealBasic][rbp] project file and the original `.zip` package released by Nathan is on [Google Docs][gdrive] as well as uncompressed and cleaned up in this repo under the branch `original`.  
+The tutorial videos in the have been re-compressed with [MPEG Streamclip][mpeg] as MP4 200kbps h.264 to avoid filling up the repo with 200+mb of video materials.
 
 [mpeg]: http://www.squared5.com/
 [lux]: http://luxology.com/
