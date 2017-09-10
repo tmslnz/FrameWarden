@@ -9,7 +9,7 @@ From the [original announcement][luxforum] (August 31st, 2012):
 >
 > I have had several requests lately from people who tell me Frame Warden still works with Modo 601 and that they were wondering if they can have the source to it. Well, here it is! It comes without any warranty and a "Use at your own risk".
 >
-> [https://docs.google.com/open?id=0B8iCxych7qVBSDlMSXlHSVA5NmM][gdrive]
+> <del>[https://docs.google.com/open?id=0B8iCxych7qVBSDlMSXlHSVA5NmM][gdrive]</del>
 > 
 > Some things you may need to know:
 > 
